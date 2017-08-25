@@ -1,0 +1,57 @@
+* {
+  margin: 0em;
+  padding: 0em;
+}
+
+.all {
+  background-color: black;
+}
+
+.not {
+  background-color: red;
+}
+
+p {
+  color: white;
+  font-family: vollkorn;
+  font-size: 1em;
+}
+
+#hello {
+  position: relative;
+  left: 45em;
+  top: 22em;
+}
+
+#over {
+  position: relative;
+}
+
+#not {
+  position: relative;
+  left: 90em;
+  top: 35em;
+}
+
+#left {
+  position: relative;
+  left: 45em;
+  top: 4em;
+}
+
+#or {
+  position: relative;
+  left: 80em;
+  top: 20em;
+}
+
+#good {
+  position: relative;
+  left: 20em;
+  top: 100em;
+}
+
+#communism {
+  position: relative;
+  left: 260em;
+}
